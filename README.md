@@ -1,0 +1,1 @@
+A few inconsistencies were observed when trying to use DNA/RNA duplex thermodynamic data and therefore it is recommended to use RNA/RNA parameters to design DNA molecular beacons and individually analyzing the resulting probe for DNA backbone.
